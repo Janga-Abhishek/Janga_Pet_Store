@@ -1,0 +1,50 @@
+﻿@model JangaPetStore.Models.Cart
+
+<h2>Your Cart</h2>
+
+@if (Model.CartItems != null && Model.CartItems.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Total</th>
+                <th>Remove</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.CartItems)
+            {
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Product.Price.ToString("C")</td>
+                    <td>@(item.Quantity * item.Product.Price)</td>
+                    <td>
+                        <a href="@Url.Action("RemoveFromCart", "Cart", new { id = item.ProductId })" class="btn btn-danger">Remove</a>
+                    </td>
+                </tr>
+            }
+            <tr>
+                <td colspan="3"><strong>Total</strong></td>
+                <td>
+                    @Model.CartItems.Sum(i => i.Quantity * i.Product.Price).ToString("C")
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a href="@Url.Action("Checkout", "Cart")" class="btn btn-primary">Checkout</a>
+}
+else
+{
+    <p>Your cart is empty.</p>
+}
+<style>
+    footer {
+        position: absolute !important;
+        margin-top: auto;
+    }
+</style>

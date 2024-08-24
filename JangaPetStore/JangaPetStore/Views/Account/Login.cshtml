@@ -1,0 +1,68 @@
+﻿@model LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-sm" style="border:2px solid black">
+                <div class="card-header text-white" style="background:black;">
+                    <h3 class="mb-0 text-center">@ViewData["Title"]</h3>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Login" method="post">
+                        <div class="text-center mb-4">
+                            <img src="~/uploads/logo.png" alt="Logo" class="img-fluid" style="max-width: 150px;" />
+                        </div>
+
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger">
+                        </div>
+
+                        <div class="form-group">
+                            <div class="form-row align-items-center mb-3">
+                                <label asp-for="Username" class="col-form-label col-sm-4 text-right">USERNAME: </label>
+                                <div class="col-sm-8">
+                                    <input asp-for="Username" class="form-control" />
+                                    <span asp-validation-for="Username" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="form-row align-items-center mb-3">
+                                <label asp-for="Password" class="col-form-label col-sm-4 text-right">PASSWORD: </label>
+                                <div class="col-sm-8">
+                                    <input asp-for="Password" type="password" class="form-control" />
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group text-center">
+                            <input type="submit" value="Login" class="btn btn-primary btn-block" style="width: 50%; background: #5da8c0; border:1px solid black; font-weight:bold" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .form-row {
+        display: flex;
+        align-items: center;
+    }
+
+    .col-form-label {
+        width: 23%;
+        margin-left: 5%;
+        padding-right: 15px;
+    }
+
+    .form-control {
+        width: 100%;
+    }
+</style>

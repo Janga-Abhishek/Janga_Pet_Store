@@ -1,0 +1,429 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/obj/Debug/net6.0/scopedcss/projectbundle/JangaPetStore.bundle.scp.css",
+      "PackagePath": "staticwebassets/JangaPetStore.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Arowana20240812185533.avif",
+      "PackagePath": "staticwebassets/uploads/Arowana20240812185533.avif"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Arowana20240812185720.jpg",
+      "PackagePath": "staticwebassets/uploads/Arowana20240812185720.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/BallPython20240813184620.avif",
+      "PackagePath": "staticwebassets/uploads/BallPython20240813184620.avif"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/BallPython20240821173040.avif",
+      "PackagePath": "staticwebassets/uploads/BallPython20240821173040.avif"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/British Shorthair20240812183939.jpg",
+      "PackagePath": "staticwebassets/uploads/British Shorthair20240812183939.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/British Shorthair20240812212254.jpg",
+      "PackagePath": "staticwebassets/uploads/British Shorthair20240812212254.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Gerbil20240812191328.jpg",
+      "PackagePath": "staticwebassets/uploads/Gerbil20240812191328.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Gerbil20240812200156.jpg",
+      "PackagePath": "staticwebassets/uploads/Gerbil20240812200156.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Gerbil20240813184634.jpg",
+      "PackagePath": "staticwebassets/uploads/Gerbil20240813184634.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Hamster20240812191153.jpg",
+      "PackagePath": "staticwebassets/uploads/Hamster20240812191153.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Hamster20240813190148.jpg",
+      "PackagePath": "staticwebassets/uploads/Hamster20240813190148.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Husky20240812182344.webp",
+      "PackagePath": "staticwebassets/uploads/Husky20240812182344.webp"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Husky20240812182449.webp",
+      "PackagePath": "staticwebassets/uploads/Husky20240812182449.webp"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Husky20240812182529.webp",
+      "PackagePath": "staticwebassets/uploads/Husky20240812182529.webp"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Husky20240812182712.webp",
+      "PackagePath": "staticwebassets/uploads/Husky20240812182712.webp"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Hyacinth Macaw20240812184824.jpg",
+      "PackagePath": "staticwebassets/uploads/Hyacinth Macaw20240812184824.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Hyacinth Macaw20240812184846.jpg",
+      "PackagePath": "staticwebassets/uploads/Hyacinth Macaw20240812184846.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Koi20240812190004.jpg",
+      "PackagePath": "staticwebassets/uploads/Koi20240812190004.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Macaw20240812184930.jpg",
+      "PackagePath": "staticwebassets/uploads/Macaw20240812184930.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Rottweiler20240812182905.webp",
+      "PackagePath": "staticwebassets/uploads/Rottweiler20240812182905.webp"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Scarlet Macaw20240812185142.jpg",
+      "PackagePath": "staticwebassets/uploads/Scarlet Macaw20240812185142.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/Sphynx20240812184507.jpg",
+      "PackagePath": "staticwebassets/uploads/Sphynx20240812184507.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/african_grey_20240812185334.jpg",
+      "PackagePath": "staticwebassets/uploads/african_grey_20240812185334.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/ballPython20240812190812.jpg",
+      "PackagePath": "staticwebassets/uploads/ballPython20240812190812.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/ballPython20240812222525.jpg",
+      "PackagePath": "staticwebassets/uploads/ballPython20240812222525.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/ballPython20240813211207.jpg",
+      "PackagePath": "staticwebassets/uploads/ballPython20240813211207.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/ballPython20240821173057.jpg",
+      "PackagePath": "staticwebassets/uploads/ballPython20240821173057.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/bearded-dragon-on-sand20240812190441.jpg",
+      "PackagePath": "staticwebassets/uploads/bearded-dragon-on-sand20240812190441.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/corn-snake20240812190538.jpg",
+      "PackagePath": "staticwebassets/uploads/corn-snake20240812190538.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/corn-snake20240813183445.jpg",
+      "PackagePath": "staticwebassets/uploads/corn-snake20240813183445.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/guinea-pig20240812191225.jpg",
+      "PackagePath": "staticwebassets/uploads/guinea-pig20240812191225.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/guinea-pig20240812222541.jpg",
+      "PackagePath": "staticwebassets/uploads/guinea-pig20240812222541.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/guinea-pig20240813210320.jpg",
+      "PackagePath": "staticwebassets/uploads/guinea-pig20240813210320.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/guinea-pig20240813211125.jpg",
+      "PackagePath": "staticwebassets/uploads/guinea-pig20240813211125.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/hedgehog20240812191416.jpg",
+      "PackagePath": "staticwebassets/uploads/hedgehog20240812191416.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/logo.png",
+      "PackagePath": "staticwebassets/uploads/logo.png"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/persian20240812184236.jpg",
+      "PackagePath": "staticwebassets/uploads/persian20240812184236.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/pomacanthus20240812190212.jpg",
+      "PackagePath": "staticwebassets/uploads/pomacanthus20240812190212.jpg"
+    },
+    {
+      "Id": "/Users/jangaabhishek/Desktop/JangaPetStore/JangaPetStore/wwwroot/uploads/samoyed20240812183532.jpg",
+      "PackagePath": "staticwebassets/uploads/samoyed20240812183532.jpg"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.JangaPetStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.JangaPetStore.props",
+      "PackagePath": "build\\JangaPetStore.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.JangaPetStore.props",
+      "PackagePath": "buildMultiTargeting\\JangaPetStore.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.JangaPetStore.props",
+      "PackagePath": "buildTransitive\\JangaPetStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

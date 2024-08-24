@@ -1,0 +1,55 @@
+﻿@model JangaPetStore.Models.Product
+
+@{
+    ViewData["Title"] = "Add Product";
+}
+
+<form class="form" asp-action="AddProduct" method="post" enctype="multipart/form-data">
+    <h2 class="form_title">Add Product</h2>
+
+    <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="StockQuantity"></label>
+        <input asp-for="StockQuantity" class="form-control" />
+        <span asp-validation-for="StockQuantity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CategoryId">Category</label>
+        <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.Categories"></select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="imageFile">Product Image</label>
+        <input type="file" id="imageFile" name="imageFile" class="form-control" />
+        <span class="text-danger" asp-validation-for="ImageUrl"></span>
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary">Add Product</button>
+    </div>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
